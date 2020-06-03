@@ -1,0 +1,45 @@
+ body{
+	 color:blue
+ }
+ body{
+	 
+ background-color:#F3F781
+ }
+ body{
+	 font-family:Georgia,"Times New Roman",Times,serif
+ }
+ h1{
+ font-family:Helvetica,Geneva,Arial,Sun Sans-Regular,sans-serif
+ }
+ ul{
+	margin-top:1em;
+margin-right:1em;
+	
+}
+ li{
+	 width: 190px;
+	 list-style-type: none;
+	 margin: 1em;
+	 padding: 1em;
+ }
+ 
+ ul{
+	 border-bottom: 1px solid #C4C2C4;
+ border-top: 5px solid #67FBF9;
+ background: white;
+ }
+li{
+	
+	display: block;
+	padding: .2em 0 .2em 1.5em;
+	text-decoration: none;
+	border-right: 1em solid black;
+
+a:link:hover {
+        color:blue;
+}
+
+a:visited:active {
+        color: purple;
+      }
+}

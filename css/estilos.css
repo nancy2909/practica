@@ -1,0 +1,45 @@
+body{
+	color:blue
+	
+	}
+
+body{
+
+	background-color:#F3F781}
+	
+body{
+	font-family:Georgia,"Times New Roman",Times,serif; }
+
+h1{
+	font-family:Helvetica,Geneva,Arial,SunSans-Regular,sans-serif;
+	
+
+}
+}
+ul{
+	margin-top:1em;
+margin-right:1em;
+	
+}
+
+ul 
+{display: inline-block;
+class:navbar; }
+
+li{
+	list-style-type:none;
+	padding-right:1em;
+margin:1em;
+	
+}
+li{
+display:block;
+background:white;
+padding:.2em 0.2em 1.5em;
+border-right:10px solid black;
+text-decoration:none;
+	a:link {color:blue}
+
+a:visited {color:purple}
+}
+

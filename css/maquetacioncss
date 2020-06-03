@@ -1,0 +1,77 @@
+#conteiner{
+background-color:#992EC1;
+width:100%;
+}
+#header{
+background-color:#43C12E;
+float:none;
+width:100%;
+}
+#contenido{
+background-color:#C1652E;
+float:left;
+width:33.33%;
+}
+#izquierda{
+background-color:#C1652E;
+float:left;
+width:33.33%;
+}
+
+#derecha{
+background-color:#2EA5C1;
+float:right;
+width:33.33%;
+}
+#footer{
+background-color:#372EC1;
+float:none;
+clear:both;
+
+}
+p{
+ color: red;
+ text-align: justify;
+ font-family: Perpetua;
+ font-size:30px;
+ line-height:1.5;70
+}
+h2{
+ color:black;
+ text-align: justify;
+ font-family: Segoe Print;
+ font-size:30px;
+ line-height:1.5;70
+}
+h1{
+
+     color: #38610B;
+ text-align: center;
+ font-family: Bradley Hand ITC;
+ font-size:50px;
+ line-height:1.5;70
+}
+
+li{
+ color: black;
+ text-align: justify;
+ font-family: Segoe Print;
+ font-size:30px;
+ line-height:1.5;70}
+h3{ 
+
+ color: blue;
+ text-align: justify;
+ font-family: Segoe Print;
+ font-size:30px;
+ line-height:1.5;70
+}
+  
+body{
+
+background: linear-gradient(#ffffff 50%, rgba(255,255,255,0) 0) 0 0,
+radial-gradient(circle closest-side, #F5A9D0 53%, rgba(255,255,255,0) 0) 0 0,
+radial-gradient(circle closest-side, #F5A9D0 50%, rgba(255,255,255,0) 0) 55px 0 #F5A9D0;
+background-size: 110px 200px;
+background-repeat: repeat-x;
+}

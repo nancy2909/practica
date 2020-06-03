@@ -1,0 +1,81 @@
+
+#conteiner{
+background-color:#BEF781;
+width:100%;
+height:100px;
+}
+#header{
+background-color:#43C12E;
+float:none;
+width:100%;
+height:100px;
+}
+#izquierda{
+background-color:#CEECF5;
+float:left;
+width:50%;
+margin-bottom:100px;
+height:500px;
+padding-bottom:100px;
+}
+#contenido{
+background-color:#CED8F6;
+float:left;
+width:25%;
+margin-bottom:100px;
+padding-bottom:100px;
+height:700px;
+}
+
+#derecha{
+background-color:#CED8F6;
+float:right;
+width:25%;
+margin-bottom:100px;
+padding-bottom:100px;
+height:700px;
+}
+#footer{
+background-color:#372EC1;
+float:none;
+clear:both;
+height:130px;
+}
+p{
+ color: white;
+ text-align: justify;
+ font-family: Perpetua;
+ font-size:30px;
+ line-height:1.5;70
+}
+h2{
+ color:black;
+ text-align: center;
+ font-family: Segoe Print;
+ font-size:30px;
+ line-height:1.5;70
+}
+h1{
+
+     color: #38610B;
+ text-align: center;
+ font-family: Bradley Hand ITC;
+ font-size:60px;
+ line-height:1.5;70
+}
+
+li{
+ color: black;
+ text-align:justify;
+ font-family: Segoe Print;
+ font-size:30px;
+ line-height:1.5;70}
+h3{ 
+
+ color: blue;
+ text-align:center;
+ font-family: Segoe Print;
+ font-size:30px;
+ line-height:1.5;70
+}
+  

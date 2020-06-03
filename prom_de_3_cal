@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang ="es" xml:lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title> Promedios </title>
+<style type=text/css">
+body{
+background-color :pink;}
+</style>
+</head>
+<body>
+<h1>Practica 20: Realiza una aplicación que calcule el promedio de 3
+calificaciones de un alumno.</h1>
+<form method="post" action="promedio.php">
+Escribe el nombre del alumno:
+<input type ="text" name="nombre" placeholder="Escribe un numero" value ="" size ="20" maxlength="30" /><br/><br/>
+Calificacion 1:
+<input type ="text" name="cal1" placeholder="Escribe un numero" value ="" /><br/><br/>
+Calificacion 2:
+<input type ="text" name="cal2" placeholder="Escribe un numero" value ="" /><br/><br/>
+Calificacion 3:
+<input type ="text" name="cal3" placeholder="Escribe un numero" value ="" /><br/><br/>
+<p><input type="submit" value="calcular" name="calcular"> &nbsp;&nbsp;&nbsp;&nbsp;
+<input type="reset" value="limpiar casillas" name="limpiar" ></p>
+</form>
+</body>
+</html>
